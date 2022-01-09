@@ -1,0 +1,18 @@
+site_name: Zebrafish Facility Manager Policies and Procedures
+
+nav:
+  - Introduction: index.md
+  - (D) Operational Controls:
+      - Maintenance: d_1_maintenance.md
+      - Media Access: d_2_media_protection.md
+  - (E) Technical Controls:
+    - Identification and Authentication: e_1_identification_authentication.md
+    - Access Control: e_2_access_control.md
+    - Audit and Accountability: e_3_audit_trails.md
+  - Risk Management: risk-management.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+
