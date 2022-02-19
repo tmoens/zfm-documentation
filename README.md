@@ -10,3 +10,7 @@ mkdocs build
 ```
 
 FWIW, probably set up deployment so you can upload to the server at any time.
+
+You should probably deploy any time you push to git.
+
+After completion, you should probably push any changes to git when you deploy.

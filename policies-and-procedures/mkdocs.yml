@@ -2,14 +2,19 @@ site_name: Zebrafish Facility Manager Policies and Procedures
 
 nav:
   - Introduction: index.md
+  - (C) Management Controls:
+      - Risk Assesment: c_2_1_risk-assessment.md
   - (D) Operational Controls:
-      - Maintenance: d_1_maintenance.md
-      - Media Access: d_2_media_protection.md
+      - Maintenance Policy: d_1_maintenance_policy.md
+      - Media Access Policy: d_2_media_protection_policy.md
+      - Contingency Plan Policy: d_5_contingency_plan_policy.md
+      - Configuration Management Policy: d_6_configuration_management_policy.md
   - (E) Technical Controls:
     - Identification and Authentication: e_1_identification_authentication.md
     - Access Control: e_2_access_control.md
     - Audit and Accountability: e_3_audit_trails.md
-  - Risk Management: risk-management.md
+  - Risk Assessment Results: risk-assessment-results-2022-02-18.md
+  - Contingency Plan: contingency-plan.md
 
 theme:
   name: material
