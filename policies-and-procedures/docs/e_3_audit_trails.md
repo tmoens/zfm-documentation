@@ -1,24 +1,32 @@
 ## Audit and Accountability Policy
 
-Version 1.0
+Version Draft 0.1
 
-Issued 2021-08-05
+Issued: TBD
 
-Last Updated and Approved 2021-08-05
+Last Updated and Approved TBD
 
+### Purpose
 
-##### Purpose
-Define Audit and Accountability Controls for ZFM.
+Develop, implement, and maintain a plan for maintaining production
+hardware and software for ZFM.
 
-##### Scope
+### Scope
+
 ZFM System
 
-##### Responsibilities
-Development must ensure that the controls described here are implemented
-in the system.
+### Responsibilities
 
-##### Management Commitment
-Management must ensure that the controls described here are implemented in the system.
+Management team and technical team must develop the maintenance plan.
+
+Same must review and update the plan on an annual basis.
+
+The technical team is responsible for testing and implementing the plan.
+
+#### Management Commitment
+
+Management must ensure that the plan is developed, maintained, reviewed,
+understood and implemented by appropriate staff.
 
 ### Audit Events
 ### Content of Audit Records

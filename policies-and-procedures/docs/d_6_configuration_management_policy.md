@@ -48,7 +48,7 @@ The following must be stored in configuration management.
 
 4. installation documentation
 
-The following **must not** be stored under configuration manangement
+The following **must not** be stored under configuration management:
 
 1. customer data (like database backups)
 2. passwords
@@ -61,7 +61,7 @@ The following **must not** be stored under configuration manangement
 ##### Implementation
 
 The system software is stored using git in GitHub. Configuration files that
-contain sensitive information like database passwords are excluded in .gitignore
+contain sensitive information like database passwords are excluded using .gitignore
 files.
 
 #### Baseline Configuration Client Systems
