@@ -237,11 +237,13 @@ cd zsm
 ### Clone the GitHub repository
 
 This is where you download all zf-client and zf-server code.
+Oopsy, it's a private repo now and you need ssh access to it.
+You can get it through me, ted.
 
 ```bash
 # For example:
 cd /var/www/zsm/
-git clone https://github.com/tmoens/zebrafish-facility-manager
+git clone ssh://github.com/tmoens/zebrafish-facility-manager
 ```
 
 ### zf-server build
@@ -251,7 +253,7 @@ git clone https://github.com/tmoens/zebrafish-facility-manager
 npm install -g @nestjs/cli
 
 # navigate to the zf-server sub-directory
-cd /var/www/zsm/live/zebrafish-facility-manager/zf-server
+cd /var/www/zsm/zebrafish-facility-manager/zf-server
 
 # Download npm packages
 npm install
@@ -269,7 +271,7 @@ This generates a "dist" directory containing the main server executable main.js.
 npm install -g @angular/cli
 
 # navigate to the the zf-client sub-directory
-cd /var/www/zsm/live/zebrafish-facility-manager/zf-client
+cd /var/www/zsm/zebrafish-facility-manager/zf-client
 
 # Download npm packages
 npm install

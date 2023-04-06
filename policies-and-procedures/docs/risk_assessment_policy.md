@@ -2,9 +2,9 @@
 
 Version Draft 0.1
 
-Issued: TBD
+Issued: 2022-01-01
 
-Last Updated and Approved TBD
+Last Updated and Approved 2022-01-01
 
 ##### Purpose
 
@@ -14,23 +14,39 @@ Develop and document Risk assessment procedures for ZFM.
 
 ZFM System
 
-##### Responsibilities
+##### Roles and Responsibilities
 
 Management team and technical team must develop the plan.
 
 Same must review and update the plan on an annual basis.
 
-Same must perfomr the risk assessment and document the results.
+Same must perform the risk assessment and document the results.
 
-#### Management Commitment
+##### Management Commitment
 
 Management must ensure that the plan is developed, maintained, reviewed,
 understood and implemented by appropriate staff.
 
 ### Security Categorization (C.2.2)
 
-Since the data in the system can be released to the general public without harming
-customer, we do not perform a formal security categorization.
+Upon review of NIST 800-60, ZFM stores, transmits, and processes information 
+that closely maps to the Reporting and Information Type. 
+Based on this type of data, the following impact levels are applicable for ZFM:
+
+The highest level of data and information contained on the ZFM is considered Low. 
+
+The assigned impact levels for each security objective (confidentiality,
+integrity, and availability) for
+ZFM are described below:
+
+**Confidentiality**: Data confidentiality refers to the protection of information from unauthorized
+disclosure. The confidentiality is ranked as Low.
+
+**Integrity**: Data integrity refers to the requirement that information be protected from
+unauthorized, unanticipated, or unintentional modification. The integrity is ranked as Low.
+
+**Availability**: Timeliness and constant update are essential to the functional operation of ZFM.
+The availability is ranked as Low.
 
 ### Risk Assessment (C.2.3)
 

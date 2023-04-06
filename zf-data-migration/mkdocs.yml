@@ -1,0 +1,20 @@
+site_name: Zebrafish Facility Manager
+
+nav:
+  - Overview: index.md
+  - Environment: environment.md
+  - Users: users.md
+  - Mutations: mutations.md
+  - Transgenes: transgenes.md
+  - Tanks: tanks.md
+  - Stocks:
+    - Stocks: stocks.md
+    - Lineage: lineage.md
+    - Markers: markers.md
+
+theme:
+  name: material
+  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.png
+  features:
+    - navigation.instant

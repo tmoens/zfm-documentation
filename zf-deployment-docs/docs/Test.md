@@ -19,7 +19,7 @@ You need to do a couple of things to set up
 After that, I usually run the tests from within WebStorm.  
 When you do, you have to set up the FACILITY environment variable.
 
-Also, for some reason, the first time I run tests, it seems to not be able to get started, but thereafter it is fine. No
-time to explore right now.
+Also, for some reason, the first time I run tests, it seems to not be able to get started, but thereafter it is fine.
+No time to explore right now.
 
 

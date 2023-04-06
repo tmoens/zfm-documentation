@@ -1,4 +1,4 @@
-## Apache setup
+sudo## Apache setup
 
 This guide assumes you have apache set up and running. It covers creation of a
 virtual host for each facility you want to manage.
@@ -9,8 +9,8 @@ Examples and another for Staging (i.e. a test facility).
 ### Prerequisites:
 
 1. you have purchased the domain _zsm.com_
-1. you have set up a sub-domain for the Example University of Examples called _
-   eue.zsm.com_
+1. you have set up a sub-domain for the Example University of Examples called
+   _eue.zsm.com_
 1. you have chosen to run the zf-server for _eue_ on port 3004.
 1. you have built the zf-client and installed it in the appropriate directory.
    In the deployment doc we suggested /var/www/zsm/zf-client

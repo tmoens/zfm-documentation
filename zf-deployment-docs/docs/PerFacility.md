@@ -97,7 +97,7 @@ line.
 The server rejects bad or missing configuration with useful error messages.
 
 ```bash
-# on the command line, navigate to the *live* zf-server directory
+# on the command line, navigate to the zf-server directory
 cd /var/www/zsm/zebrafish-facility-manager/zf-server
 
 # tell the server where to find the eue config file (eue.env)

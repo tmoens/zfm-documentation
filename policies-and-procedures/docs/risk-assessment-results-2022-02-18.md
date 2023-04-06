@@ -1,10 +1,10 @@
 # Risk Assessment Results
 
-Version Draft 0.1
+Version 1.0
 
 Issued: TBD
 
-Last Updated and Approved TBD
+Last Updated and Approved 2022-02-18
 
 ## Purpose
 
@@ -34,7 +34,7 @@ or using guessable passwords they have used elsewhere.
 It could also happen if a third party gained access to an authorized user's computer
 before the user's session expired.
 #### Impact
-None. Disclosure of AFM data is not deemed a risk, nor likely to have any adverse impact.
+None. Disclosure of ZFM data is not deemed a risk, nor likely to have any adverse impact.
 #### Actions required
 None.
 #### Possible Mitigation
