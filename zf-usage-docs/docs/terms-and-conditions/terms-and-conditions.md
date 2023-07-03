@@ -2,46 +2,63 @@
 
 Last updated June 07, 2023
 
-# AGREEMENT TO OUR LEGAL TERMS
+# DEFINITIONS
 
-We are Theo Schroder Webwork ("Company," "we," "us," "our"), a company registered in Canada at 7754 Wansford Drive,
-Delta, British Columbia V4C 7S9.
-
-We operate the website zebrafishfacilitymanager.com
-and its subdomains (the "Site"), as well as any other related products
-and services that refer or link to these legal terms (the "Legal Terms")
-(collectively, the "Services").
-
-We provide websites to track zebrafish stocks, their lineage, genetic markers
+"We", "Us", "Our": Theo Schroder Webwork, a sole proprietorship registered in Canada at 7754 Wansford Drive,
+Delta, British Columbia V4C 7S9. We provide websites to track zebrafish stocks, their lineage, genetic markers
 and physical facility locations for genetics research facilities working
 with zebrafish.
-
 You can contact us by phone at 778.706-7178,
 email at zebrafishfacilitymanager@gmail.com,
 or by mail to 7754 Wansford Drive, Delta, British Columbia V4C 7S9, Canada.
 
-These Legal Terms constitute a legally binding agreement made between you,
-whether personally or on behalf of an entity ("you", "your"), and Theo Schroder Webwork,
-concerning your access to and use of the Services.
-You agree that by accessing the Services, you have read, understood,
+“Benefits” or “Entitlements”: means those benefits described on or accessible from, and made available to You or Your
+Users through the Services purchased by You.
+Benefits may
+include (amongst other things) updates and upgrades, certain support, training and other services, web services and
+other software products. Benefits may vary for different levels or types of Subscription for multi-user.
+
+"Contributions": XXX Not sure if I should define this here or later.
+Your Contributions are the data You store and access using the Services.
+
+"End User": any individual accessing the Services, whether acting personally or on behalf of an entity.
+
+"Legal Terms": These legal terms.
+
+"Services": the Site any other related products
+and services that refer or link to these legal terms.
+The Services are intended for users who are at least 18 years old.
+Persons under the age of 18 are not permitted to use the Services.
+
+"Submissions":  XXX Not sure if I should define this heer or later. 
+Any question, comment, suggestion, idea, feedback, or other information about the Services.
+
+"Subscription": XXX
+
+"Site": the website zebrafishfacilitymanager.com and the subdomain thereof provided to You as part of Your Benefits.
+
+"You", "Your": the company or other legal entity or organization on behalf of which a Subscription is acquired
+as well as any End Users You authorize to access the Site.
+
+# AGREEMENT TO OUR LEGAL TERMS
+
+These Legal Terms constitute a legally binding agreement you and Theo Schroder Webwork,
+concerning you and your End Users' access to and use of the Services.
+You agree that by Your accessing the Services, you have read, understood,
 and agreed to be bound by all of these Legal Terms.
 IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY
 PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
-
-XX Need to define Your Research Entiry
 
 Supplemental terms and conditions or documents that may be posted on the Services
 from time to time are hereby expressly incorporated herein by reference.
 We reserve the right, in our sole discretion, to make changes or modifications
 to these Legal Terms at any time and for any reason.
 We will alert you about any changes by updating the "Last updated" date of these
-Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to
-periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have
-been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services
+Legal Terms, and you waive any right to receive specific notice of each such change.
+It is your responsibility to periodically review these Legal Terms to stay informed of updates.
+You will be subject to, and will be deemed to have been made aware of and to have accepted, 
+the changes in any revised Legal Terms by your continued use of the Services
 after the date such revised Legal Terms are posted.
-
-The Services are intended for users who are at least 18 years old.
-Persons under the age of 18 are not permitted to use or register for the Services.
 
 We recommend that you print a copy of these Legal Terms for your records.
 
@@ -66,69 +83,74 @@ Gramm-Leach-Bliley Act (GLBA).
 
 ### Our intellectual property
 
-Excluding content provided by end users, we are the owner or the licensee of all
+Excluding content provided by You, we are the owner or the licensee of all
 intellectual property rights
 in our Services, including all source code, databases, functionality, software, website designs, text, and graphics in
-the Services, (collectively, the "Content").
+the Services, (collectively, the "System").
 
-The Content are provided in or through the Services "AS IS" for your internal research purpose only.
+The System is provided in or through the Services "AS IS" for your internal purpose only.
 
 ### Your use of our Services
 
-Subject to your compliance with these Legal Terms, including the "PROHIBITED ACTIVITIES" section below, we grant you a
+Subject to your compliance with these Legal Terms, including the "PROHIBITED ACTIVITIES" section below, we grant You a
 non-exclusive, non-transferable, revocable license to:
-access the Services;
-store data using the Services;
-and download or print a copy of any portion of the Content
-to which you have properly gained access solely for your internal research purpose.
+access the Services,
+store data using the Services,
+and download or print a copy of any portion of the System
+to which You have properly gained access solely for Your internal purpose.
 
-Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content may
+Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no part of the System may
 be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted,
 distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior
 written permission.
 
-If you wish to make any use of the Services or Content, other than as set out in this section or elsewhere in our
-Legal Terms, please address your request to: zebrafishfacilitymanager@gmail.com. If we grant you the permission to
-post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or
-licensors of the Services or Content and ensure that any copyright or proprietary notice appears or is visible
-on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services or System, other than as set out in this section or elsewhere in our
+Legal Terms, please address Your request to: zebrafishfacilitymanager@gmail.com.
+If we grant You the permission to
+post, reproduce, or publicly display any part of our Services or System, You must identify us as the owners or
+licensors of the Services or System and ensure that any copyright or proprietary notice appears or is visible
+on posting, reproducing, or displaying our System.
 
-We reserve all rights not expressly granted to you in and to the Services and Content.
+We reserve all rights not expressly granted to You in and to the Services and System.
 
-Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to
+Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and Your right to
 use our Services will terminate immediately.
+
+By using the Services, You grant us 
+royalty-free, fully-paid, worldwide right, and license to our use of your name, and Entity name,
+as applicable, and any of the trademarks,
+service marks, trade names, logos, and personal and commercial images you provide.
 
 ### Your submissions and contributions
 
 Please review this section and the "PROHIBITED ACTIVITIES" section carefully prior to using our Services to understand
-the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
+the (a) rights you give us and (b) obligations you have when store any Contributions through the Services.
 
 Submissions: By directly sending us any question, comment, suggestion, idea, feedback, or other information about the
-Services ("Submissions"), you agree to assign to us all intellectual property rights in such Submission. You agree that
+Services ("Submissions"), You agree to assign to us all intellectual property rights in such Submission. You agree that
 we shall own this Submission and be entitled to its unrestricted use and dissemination for any lawful purpose,
-commercial or otherwise, without acknowledgment or compensation to you.
+commercial or otherwise, without acknowledgment or compensation to You.
 
 Contributions: The Services permit you to contribute data about zebrafish stocks (genetics, lineage, etc.) for storage
-in a database ("Contributions"). Your Contributions are viewable and editable by other users who have been granted
-access by your organization.
+in a database. Your Contributions are viewable and editable by other End Users who have been granted
+access by You.
 
-XX Your Contributions remain the property of your institution. 
+XXX I do not need this next paragraph unless it covers me for being hacked or accidentally releasing a customer's data.
+After all, the data a university stores may well contain their intellectual property and I should keep it safe. XXX
 
-XX When you post Contributions, you grant us a license (including use of your name, trademarks, and logos): By posting any
-Contributions, you grant us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable,
-royalty-free, fully-paid, worldwide right, and license to: use, copy, reproduce, distribute, sell, resell, publish,
-broadcast, retitle, store, publicly perform, publicly display, reformat, translate, excerpt (in whole or in part), and
-exploit your Contributions (including, without limitation, your image, name, and voice) for any purpose, commercial,
-advertising, or otherwise, to prepare derivative works of, or incorporate into other works, your Contributions, and to
-sublicense the licenses granted in this section. Our use and distribution may occur in any media formats and through any
+When You make Contributions, You grant us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive,
+transferable,
+royalty-free, fully-paid, worldwide right, and license to: use, copy, reproduce, distribute,
+store, reformat, excerpt (in whole or in part), your Contributions for any purpose, commercial,
+advertising or otherwise, your Contributions.
+Our use and distribution may occur in any media formats and through any
 media channels.
 
-XX This license includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks,
+This license includes our use of your name, and Entity name, as applicable, and any of the trademarks,
 service marks, trade names, logos, and personal and commercial images you provide.
 
-You are responsible for what you post or upload: By sending us Submissions and/or posting Contributions through any part
-of the Services or making Contributions accessible through the Services by linking your account through the Services to
-any of your social networking accounts, you:
+You are responsible for what You or your End Users post or upload: By sending us Submissions and/or posting Contributions through any part
+of the Services, you:
 confirm that you have read and agree with our "PROHIBITED ACTIVITIES" and will not post, send, publish, upload, or
 transmit through the Services any Submission nor post any Contribution that is illegal, harassing, hateful, harmful,
 defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false,
@@ -142,7 +164,7 @@ You are solely responsible for your Submissions and/or Contributions and you exp
 all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property
 rights, or (c) applicable law.
 
-We may remove or edit your Content: Although we have no obligation to monitor any Contributions, we shall have the right
+We may remove or edit your System: Although we have no obligation to monitor any Contributions, we shall have the right
 to remove or edit any Contributions at any time without notice if in our reasonable opinion we consider such
 Contributions harmful or in breach of these Legal Terms. If we remove or edit any such Contributions, we may also
 suspend or disable your account and report you to the authorities.
@@ -157,32 +179,28 @@ any illegal or unauthorized purpose; and (5) your use of the Services will not v
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or
 terminate your account and refuse any and all current or future use of the Services (or any portion thereof).
 
-4. PROHIBITED ACTIVITIES
+4. OK PROHIBITED ACTIVITIES
 
 You may not access or use the Services for any purpose other than that for which we make the Services available. The
-Services may not be used in connection with any commercial endeavors except those that are specifically endorsed or
-approved by us.
+Services may not be used in connection with any commercial endeavors.
 
 As a user of the Services, you agree not to:
-Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a
-collection, compilation, database, or directory without written permission from us.
 Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as
 user passwords.
 Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that
-prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the
-Content contained therein.
+prevent or restrict the use or copying of any System or enforce limitations on the use of the Services and/or the
+System contained therein.
 Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
 Use any information obtained from the Services in order to harass, abuse, or harm another person.
 Make improper use of our support services or submit false reports of abuse or misconduct.
 Use the Services in a manner inconsistent with any applicable laws or regulations.
 Engage in unauthorized framing of or linking to the Services.
-Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive
-use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s
-uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use,
+Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, that interferes
+with any party’s uninterrupted use of the Services or modifies, impairs, disrupts, alters, or interferes with the use,
 features, functions, operation, or maintenance of the Services.
 Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining,
 robots, or similar data gathering and extraction tools.
-Delete the copyright or other proprietary rights notice from any Content.
+Delete the copyright or other proprietary rights notice from any System.
 Attempt to impersonate another user or person or use the username of another user.
 Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information
 collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1
@@ -204,12 +222,8 @@ Use a buying agent or purchasing agent to make purchases on the Services.
 Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic
 or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false
 pretenses.
-Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any
-revenue-generating endeavor or commercial enterprise.
 
-XX Seems ok through here
-
-5. USER GENERATED CONTRIBUTIONS
+5. END-USER GENERATED CONTRIBUTIONS
 
 The Services may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other
 functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish,
