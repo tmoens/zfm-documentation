@@ -1,0 +1,14 @@
+site_name: ZFM Development Docs
+
+nav:
+  - Overview: index.md
+  - Testing: test.md
+  - Release: release.md
+  - Documentation: documentation.md
+
+theme:
+  name: material
+  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.png
+  features:
+    - navigation.instant

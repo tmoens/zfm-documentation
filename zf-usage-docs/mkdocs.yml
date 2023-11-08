@@ -4,11 +4,11 @@ nav:
   - What is the ZFM?: index.md
   - Who Uses the ZFM?: who-uses-zfm.md
   - Why Use the ZFM?: why-zfm.md
-  - Terms And Conditions: terms-and-conditions/terms-and-conditions.md
   - Best Practices:
     - Stocks and Substocks: best-practices/stocks.md
     - Mutations and Transgenes: best-practices/mutations.md
   - Release Notes: release-history.md
+  - Terms And Conditions: terms-and-conditions/terms-and-conditions.md
   - Contact Information: contact.md
 
 theme:

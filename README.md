@@ -24,6 +24,18 @@ Describes how to deploy a Zebrafish Facility Management system.
 
 Marketing and usage of the Zebrafish Facility Manager
 
+## Development Practices
+
+Just record of how we generally approach development, which tools we use and 
+so on.  It helps for remembering things like how to create a release or the 
+general approach taken in writing automated tests.
+
+## Data Migration
+
+Ideas on how to bring data for a new customer into the system.
+Also documents the data migration tools.  I believe it needs to be brought
+up to date.
+
 ## Building the documentation
 
 The process is simple and the same for each document.
@@ -39,6 +51,10 @@ mkdocs build
 ```
 This generates (or overwrites) the /site subdirectory in policies and 
 procedures directory.
+
+If you want to browse it before deploying it, just right-click the resulting 
+index.html file and "run" it.
+
 The /site directory is static HTLM, so it's super easy to deploy.
 
 ## Deploying the Documentation
@@ -53,3 +69,4 @@ just copy the /site directory to the appropriate site directory on your server.
 
 FWIW, I add a deployment configuration in WebStorm for each document so
 that redeploying the site after updates is a breeze.
+
