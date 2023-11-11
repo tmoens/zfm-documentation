@@ -130,54 +130,24 @@ RewriteRule.
 To ensure secure connections, you need to get a certificate that will secure
 your domain and all "per-facility" subdomains you are going to deploy.
 
-The process differs for the first facility, when you are getting an SSL
-certificate for the first time and for subsequent facilities when you are
-extending the certificate to secure new facilities.
+Here is a good description of the process using Certbot
+[How to secure Apache](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-debian-10)
+.
 
-#### First facility(ies)
-
-When you support your first facility(ies) you need to generate a certificate
-that names your domain and the subdomain for each facility.
-
-Before using the procedure that follows, please note that when you get to the
-part where the procedure says to use certbot to create your certificate, you can
-use multiple -d options, one for your domain and one for each sub-domain. For
-example:
+Once you have done all the legwork there to set up Certbot you need to 
+generate a certificate
+that for your domain and the subdomain for each facility.
 
 ```bash
-sudo certbot --apache -d zsm.com -d eue.zsm.com -d demo.zsm.com
+# one time only for your domain
+sudo certbot --apache -d zsm.com
+
+# every time you set up a new subdomain
+sudo certbot --apache -d your-new-subdomain.zsm.com
 ```
 
 When you run the above command, we suggest that you allow certbot to modify your
 apache configuration to redirect all http traffic to https.
-
-Here is a procedure on
-[how to secure Apache](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-debian-10)
-.
-
-#### Subsequent facilities
-
-Your existing certificate needs to explicitly support the new sub-domain, you
-need to add it to your certificate.
-
-First, you want to know what domains your certificate already supports.
-
-```bash
-# get a list of certificates and the domains they support
-sudo certbot certificates
-```
-
-Suppose that your certificate says your certificate supports
-
-Domains: zsm.com, eue.zsm.com and demo.zsm.com
-
-You now need to "expand" the certificate to include the domain
-newcustomer.zsm.com. To do so, you need to issue a new certbot command that
-includes all the existing supported domains!
-
-```bash
-sudo certbot --expand -d zsm.com -d eue.zsm.com -d demo.zsm.com -d newcustomer.zsm.com
-```
 
 Certbot will guide you through the rest of the process of installing the
 certificate. Again, we recommend that you allow it to redirect all http traffic
@@ -211,8 +181,8 @@ You might also want to go to this site:
 
 https://www.ssllabs.com/ssltest/
 
-Enter your subdomain (in this case eue.zsm.com) in the Hostname, hit the "
-Submit" button. You should get a reasonably good report!
+Enter your subdomain (in this case eue.zsm.com) in the Hostname, hit the 
+"Submit" button. You should get a reasonably good report!
 It takes a couple of minutes to run.
 
 
