@@ -1,7 +1,10 @@
 ## ZFM Documentation
 
-This whole repo contains all the different documentation aspects of the system.
-The individual directories are self-explanatory.  On to the mechanics.
+The zfm-documentation repo contains documents for several documentation 
+aspects of the system.
+The individual top-level directories contain one document each and 
+each document is deployed separately because the audiences for each 
+are separate. On to the mechanics.
 
 ### Tools
 
@@ -29,7 +32,7 @@ In a terminal, just go to a base directory of one of the documents and
 mkdocs serve
 ```
 It will watch for changes and compile on the fly. It also tells you what
-port it is serving on.  Just click it, and you will have see the website
+URL it is serving on.  Just click the URL, and you will have see the website
 update every time you save an edit.
 
 The **mkdocs serve** command has lots of options which might be useful. If you
@@ -41,7 +44,9 @@ mkdocs serve --dev-addr localhost:8001
 
 ### Building the documentation
 
-The process is simple and the same for each document.
+You don't really need to do this is your are running mkdocs serve, but if 
+you want to build the site manually, the process is simple and the same for 
+each document.
 As an example, here is how you build the policies and procedures document.
 
 ```shell
@@ -75,4 +80,5 @@ Then, for each document you want to publish,
 just copy the /site directory to the appropriate site directory on your server.
 
 FWIW, I add a deployment configuration in WebStorm for each document so
-that redeploying the site after updates is a breeze.
+that redeploying the site after updates is even easier.
+
