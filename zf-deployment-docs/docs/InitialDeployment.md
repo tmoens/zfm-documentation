@@ -243,7 +243,7 @@ You can get it through me, ted.
 ```bash
 # For example:
 cd /var/www/zsm/
-git clone ssh://github.com/tmoens/zebrafish-facility-manager
+git clone git@github.com:tmoens/zebrafish-facility-manager.git
 ```
 
 ### zf-server build
