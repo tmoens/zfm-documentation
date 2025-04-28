@@ -1,4 +1,4 @@
-# Zebrafish Facility Manager Documentation
+# Tennis Canada Rankings and Stats Admin Documantation
 
 The deployment documentation is written in markdown.
 You use [MkDocs](https://mkdocs.org) to build a static doc
@@ -11,30 +11,16 @@ documented [here](https://www.mkdocs.org/user-guide/installation/);
 I also use the mkdocs-material theme, so you will have to install that too.
 See [here](https://squidfunk.github.io/mkdocs-material/getting-started/#with-pip)
 
-## Policies and Procedures
-
-These are primarily in place to address the requirements of getting an Authorization to Operate
-with the NIH.
-
 ## Deployment Documentation
 
-Describes how to deploy a Zebrafish Facility Management system.
+Describes how to deploy a the software
 
-## Usage Documentation
-
-Marketing and usage of the Zebrafish Facility Manager
 
 ## Development Practices
 
 Just record of how we generally approach development, which tools we use and 
 so on.  It helps for remembering things like how to create a release or the 
 general approach taken in writing automated tests.
-
-## Data Migration
-
-Ideas on how to bring data for a new customer into the system.
-Also documents the data migration tools.  I believe it needs to be brought
-up to date.
 
 ## Building the documentation
 
@@ -44,14 +30,12 @@ As an example, here is how you build the policies and procedures document.
 ```shell
 # in some shell
 # go the policies and procedures root
-cd policies-and-procedures
+cd tc-deployment-docs
 
 # build the site
 mkdocs build
 ```
-This generates (or overwrites) the /site subdirectory in policies and 
-procedures directory.
-
+This generates (or overwrites) the /site subdirectory tc-deployment-docs
 If you want to browse it before deploying it, just right-click the resulting 
 index.html file and "run" it.
 

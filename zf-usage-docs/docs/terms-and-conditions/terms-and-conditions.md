@@ -1,6 +1,6 @@
 # Zebrafish Facility Manager Terms and Conditions
 
-Last Update Oct 14, 2023
+Last Update April 28, 2025
 
 ## Introduction
 
@@ -282,10 +282,8 @@ with the terms of this agreement.
 
 These terms and conditions are available at all times using the client software.
 The Provider reserves the right to modify the terms and conditions of this  
-agreement at any time, with changes being effective immediately upon
-publication.
-Continued use of the ZFM system by the Customer following
-modifications signifies acceptance of the amended terms and conditions.
+agreement at any time, with changes being effective on written agreement of 
+the parties.
 
 ## Governing Law and Jurisdiction:
 
@@ -296,7 +294,8 @@ in British Columbia.
 
 ## Limitation of Liability:
 
-UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL THE PROVIDER BE LIABLE FOR
+SUBJECT TO APPLICABLE LAW, UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL 
+EITHER PARTY BE LIABLE FOR
 ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES
 THAT RESULT FROM USE OF OR INABILITY TO USE THE ZFM SYSTEM, INCLUDING BUT
 NOT LIMITED TO RELIANCE BY THE CUSTOMER ON ANY INFORMATION STORED IN THE ZFM
@@ -316,19 +315,15 @@ UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVER
 THAT MAKES THE ZFM SYSTEM AVAILABLE IS FREE OF VIRUSES OR OTHER HARMFUL
 COMPONENTS.
 
-## Indemnification:
+## Responsibility:
 
-The Customer agrees to indemnify, defend, and hold harmless the Provider, its
-officers, directors, employees, agents, licensors, suppliers, and any
-third-party information providers from and against all losses, expenses,
-damages, and costs, including reasonable attorneys' fees, resulting from any
-violation of this agreement or any activity related to the Customer’s ZFM
-system (including negligent or wrongful conduct) by the Customer or any other
-person accessing the customer's ZFM system.
+Subject to applicable law, each party will be solely responsible for any claims, 
+actions, and direct damages caused by the that party’s negligence, willful 
+wrongdoing, or breach of this Agreement
 
 ## Force Majeure:
 
-The Provider shall not be held liable for any delay or failure in performance
+Neither party shall be held liable for any delay or failure in performance
 resulting directly or indirectly from acts of nature, forces, or causes beyond
 its reasonable control, including but not limited to, internet failures,
 computer equipment failures, telecommunication failures, other equipment
