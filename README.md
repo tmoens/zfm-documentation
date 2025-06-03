@@ -18,7 +18,7 @@ Describes how to deploy a the software
 
 ## Development Practices
 
-Just record of how we generally approach development, which tools we use and 
+Just a record of how we generally approach development, which tools we use and 
 so on.  It helps for remembering things like how to create a release or the 
 general approach taken in writing automated tests.
 
@@ -53,4 +53,3 @@ just copy the /site directory to the appropriate site directory on your server.
 
 FWIW, I add a deployment configuration in WebStorm for each document so
 that redeploying the site after updates is a breeze.
-

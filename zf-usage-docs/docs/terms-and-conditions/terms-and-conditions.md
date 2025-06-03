@@ -1,6 +1,6 @@
 # Zebrafish Facility Manager Terms and Conditions
 
-Last Update April 28, 2025
+Last Update June 2, 2025
 
 ## Introduction
 
@@ -63,14 +63,14 @@ management is conducted diligently.
 The Customer warrants that they will manage their users in strict accordance
 with
 any rules, guidelines, and regulations of their respective institutions or
-affiliating organizations. Any non-compliance or misuse may result in sanctions
-or repercussions as deemed appropriate by the Provider.
+affiliating organizations. The provider will not be held responsible for any
+non-compliance or misuse by the Customer.
 
 ### Intended Use:
 
 The Customer agrees and warrants that they will use ZFM exclusively for its
-designated and
-intended purpose. Any deviation from the intended application of ZFM may lead to
+designated and intended purpose.
+Any deviation from the intended application of ZFM may lead to
 action, up to and including the termination of services.
 
 ### Legal Compliance:
@@ -82,6 +82,8 @@ Customer
 will be held liable for any consequences, legal or otherwise, that arise from
 such
 violations.
+The Provider warrants that it will not store any data withing the customer's
+dedicated system.
 
 ### Limited Storage of Personal Information:
 
@@ -117,7 +119,7 @@ The Provider will back up Customer’s data in SQL format:
 ### Raw Data Availability:
 
 The provider allows the Customer to retrieve a full copy of their data in
-Workbook format through the ZFM system.
+Workbook format through the ZFM system at any time.
 Furthermore, the Provider will provide database backups (in SQL format) upon
 request.
 
@@ -128,12 +130,12 @@ security, integrity, or loss of Customer’s data.
 The Customer accepts the risk associated with potential data loss, and the
 Provider holds no liability for any data loss or corruption that may occur.
 
-### Provider Mittigation of Risk
+### Provider Mitigation of Risk
 
 The Provider mitigates this risk by backing up the Customer's data as
 described above.
 
-### Customer Mittigation of Risk
+### Customer Mitigation of Risk
 
 The Customer can further mitigate this risk by exporting their own data in
 workbook format on a regular basis.
@@ -179,7 +181,8 @@ the
 Feedback provided to it as it sees fit, without any obligation or restriction of
 any kind, either to the Customer or any third party. The Customer waives all
 rights
-to be compensated or seek compensation for any Feedback provided to the
+to be compensatmay result in sanctions
+or repercussions as deemed appropriate by the Provider.ed or seek compensation for any Feedback provided to the
 Provider.
 
 ## Term and Termination:
@@ -196,19 +199,19 @@ unless otherwise terminated as specified in this section.
 The Customer may terminate their subscription to ZFM at any time. Upon such
 termination:
 
-1. The Customer is entitled to a full copy of their data in either excel or SQL
-   format.
+1. The Customer is entitled to a full copy of their data in either Excel or SQL
+   format or both.
 2. The Provider will cease all billing activities related to the Customer's
    account from the termination date.
 
 ### Termination by Provider Without Cause:
 
-The Provider may terminate the service with 12 months notice. During this notice
-period:
+The Provider may terminate the service with a 12-month notice period. During
+this notice period:
 
 1. The customer's subscription fees will be waived.
 2. The Customer retains the right to access their data and can request a full
-   copy in either excel or SQL format at any point during this period.
+   copy in either Excel or SQL format at any point during this period.
 
 ### Termination by Provider Due to Customer's Breach:
 
@@ -282,7 +285,7 @@ with the terms of this agreement.
 
 These terms and conditions are available at all times using the client software.
 The Provider reserves the right to modify the terms and conditions of this  
-agreement at any time, with changes being effective on written agreement of 
+agreement at any time, with changes being effective on written agreement of
 the parties.
 
 ## Governing Law and Jurisdiction:
@@ -294,7 +297,7 @@ in British Columbia.
 
 ## Limitation of Liability:
 
-SUBJECT TO APPLICABLE LAW, UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL 
+SUBJECT TO APPLICABLE LAW, UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL
 EITHER PARTY BE LIABLE FOR
 ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES
 THAT RESULT FROM USE OF OR INABILITY TO USE THE ZFM SYSTEM, INCLUDING BUT
@@ -317,8 +320,8 @@ COMPONENTS.
 
 ## Responsibility:
 
-Subject to applicable law, each party will be solely responsible for any claims, 
-actions, and direct damages caused by the that party’s negligence, willful 
+Subject to applicable law, each party will be solely responsible for any claims,
+actions, and direct damages caused by the that party’s negligence, willful
 wrongdoing, or breach of this Agreement
 
 ## Force Majeure:

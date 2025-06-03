@@ -9,10 +9,10 @@ Set up your firewall to allow 'SSH' and 'WWW Full' traffic.
 
 ## Users and Groups
 
-Create an account called dbbackups. It will have minimal privileges.
+Create an account called dbbackup. It will have minimal privileges.
 
 ```bash
-adduser dbbackups
+adduser dbbackup
 # then follow the prompts
 ```
 
@@ -24,7 +24,7 @@ login only.
 ```bash
 adduser zsm
 # then follow the prompts
-usermod -G www-data -g sudo,dbbackups zsm
+usermod -G www-data -g sudo,dbbackup zsm
 ```
 
 If you want to create accounts for each developer who needs to work on the
@@ -127,14 +127,14 @@ ways to do this. This is what I did.
 
 #### Linux user
 
-You already created Linux user "dbbackups" to perform your backups.  
+You already created Linux user "dbbackup" to perform your backups.  
 Create a ssh key for this user (to allow rsync of backups to another server
 using ssh).
 
 #### Remote Host
 
 On some "backup" host that is geographically separate from your database host,
-create a user and include the public key for "dbbackups" in that user's
+create a user and include the public key for "dbbackup" in that user's
 .ssh/authorized_keys file. This enables rsync from the database host to the
 backup host.
 
@@ -144,8 +144,8 @@ Create a database user with sufficient capabilities to dump all your databases
 but not to write to them.
 
 ```sql
-create user 'dbbackups'@'localhost' identified by 'good-password-here';
-GRANT SELECT, RELOAD, SHOW DATABASES, LOCK TABLES, EVENT ON *.* TO `dbbackups`@`localhost`;
+create user 'dbbackup'@'localhost' identified by 'good-password-here';
+GRANT SELECT, RELOAD, SHOW DATABASES, LOCK TABLES, EVENT ON *.* TO `dbbackup`@`localhost`;
 ```
 
 #### Automysqlbackup
@@ -162,7 +162,7 @@ Edit the automysqlbackup config file in /etc/default/automysqlbackup to
 
 1. tell it about the database user credentials
 2. change the backup directory (default = /var/lib/automysql) to
-   /home/dbbackups/backup
+   /home/dbbackup/backup
 3. edit the configurable command that runs after the backup is complete. The
    command will simply rsync the backup files to the remote host. The command
    will look something like this with the obvious substitutions:
@@ -180,13 +180,13 @@ backup server.
 I believe this should be done with a timer and a service in systemd, but I
 failed, so I used a good old cron job.
 
-1. edit /etc/cron.allow to include the dbbackups user
+1. edit /etc/cron.allow to include the dbbackup user
 2. (Debian specific) create a cron file /etc/cron.d/automysqlbackup which will
-   run as user dbbackups. Mine looks like this:
+   run as user dbbackup. Mine looks like this:
    ```
    SHELL=/bin/sh
    PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-   17 22 * * * dbbackups /usr/sbin/automysqlbackup
+   17 22 * * * dbbackup /usr/sbin/automysqlbackup
    ```
 
 An alternate solution to all of this is to have automysqlbackup run remotely,
